@@ -1,8 +1,8 @@
 # Multimodal Classification Model
 
 ### Modality
-1. Modal 1 : TabNet with tabular data
-2. Modal 2 : ST-GCN with 3D serial skeleton data
+1. Modal 1 : TabNet with tabular data(from scratch)
+2. Modal 2 : ST-GCN with 3D serial skeleton data(from scratch)
 
 
 ### Embedding Fusion
