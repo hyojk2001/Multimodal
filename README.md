@@ -18,10 +18,13 @@ Joint Embedding : **Attention-based fusion**
 
 **************
 
-### Augmentation
+### Data Augmentation
 1. Mirroring
 2. Reversing Time
 3. Adding noise in skeleton
 4. Dropping random frames 
 
-   
+**************
+
+### Hyperparameter Tuning
+Using Optuna for hyperparameters(L2 norm, lr, optimizer, dropout in ST-GCN)
